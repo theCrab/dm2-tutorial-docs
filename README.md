@@ -1,4 +1,4 @@
-# Getting Started with DataMapper-2
+# DataMapper-2 (codename: 'The Jersey Thing')
 
 DataMapper has been completely re-written, architecture and in principle. 
 This rewrite makes DM2 completely incompatible with DM-1. 
